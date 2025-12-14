@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Kevin Chen
 
-<!--
-**krchen1/krchen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering @ NC State University**  
+🔬 Interested in **Computer Architecture, Digital Design, Hardware Acceleration, and Physicial Design**  
+💻 Experienced with **RTL, HLS, and EDA toolflows**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Technical Skills
+
+#### 🔧 Programming & Hardware Description Languages
+- **Python**, **C**, **C++**, **Embedded C**
+- **Verilog**, **SystemVerilog**
+- **MATLAB**
+- **TCL**, **Perl**
+- **Java**
+- **LC-3 Assembly**
+- **VPython**
+
+#### 🛠️ EDA Tools & Development Environments
+- **Synopsys Design Compiler**
+- **Synopsys Custom Compiler**
+- **IC Compiler II**
+- **QuestaSim**
+- **HSPICE**, **PSpice**
+- **AMD Vivado**
+- **Digilent WaveForms**
+- **Linux**
+- **Git & GitHub**
